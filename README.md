@@ -1,18 +1,80 @@
-# 💫 About Me:
-👋 Hi, I’m Shreyansh Dwivedi<br><br>🚀 “Transforming ideas into scalable solutions with code, design, and resilience.”<br><br>👨‍💻 Full Stack Developer | Aspiring SDE | System Design Enthusiast<br>🎓 B.Tech CSE @ IIIT Bhopal (2022–2026)<br>🌟 Skilled in: MERN, Next.js, Tailwind, Prisma, AWS, Cryptography<br>📌 Passionate about: Building secure systems, interactive apps, and AI-integrated solutions<br><br>📂 Projects<br><br>🔒 Cipher Shield – Secure real-time chat app with AES, RSA, ECC, and threat detection.<br><br>📊 Sorting Visualizer – Interactive tool to explore sorting algorithms and their complexities.<br><br>🍴 OmniFood Website – Responsive AI-powered meal subscription landing page (HTML, CSS, JS).<br><br>🧮 Calculator App – Fast, responsive calculator with 20+ keyboard shortcuts.<br><br>🏆 Certifications & Achievements<br><br>🏅 Graph Camp 2024 – Selected from 80K+ applicants, featured in Hall of Fame.<br><br>🎖 AtomQuest 2024 – Advanced to Round 2, ranked top ~2,000 among 14K+ participants.<br><br>📈 LeetCode Rating: 1528<br><br>🛠️ Tech Stack<br><br>Languages: C++, JavaScript, Python, SQL<br>Frontend: React, Next.js, Tailwind CSS, ShadCN UI<br>Backend: Node.js, Express.js, Django, Prisma<br>Databases: MongoDB, MySQL, PostgreSQL, Redis<br>Cloud & Tools: AWS (EC2, RDS, S3), Firebase, Vercel, GitHub Actions<br><br>🌍 Connect With Me<br><br>📧 nikkudwivedi4942@gmail.com<br><br>🔗 LinkedIn<br><br>🌐 Portfolio (coming soon)<br><br>⚡ “I believe in disciplined hard work, continuous learning, and building technology that solves real problems.”
+# 💫 Shreyansh Dwivedi
+> **Full Stack Developer | Aspiring SDE | System Design Enthusiast**
+> *Transforming ideas into scalable solutions with code, design, and resilience.*
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyansh-dwivedi-684b67274/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikkudwivedi4942@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shreyansh3108&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-dwivedi-684b67274/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikkudwivedi4942@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreyansh_08/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shreyansh3108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📖 About Me
+I am a Junior at **IIIT Bhopal** (2022–2026) focused on building secure, high-performance web applications. I specialize in the **MERN & Next.js** ecosystem, with a deep interest in **Cryptography** and **Cloud Architecture**.
+
+* 🎓 **B.Tech** in Computer Science & Engineering.
+* 🏆 **Graph Camp 2024:** Selected from 80K+ applicants (Hall of Fame).
+* 🎖 **AtomQuest 2024:** Top 2,000 / 14K+ participants.
+
+---
+
+## 🏗️ Featured Projects
+
+### [⚡ Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse)
+**Professional-grade assessment platform for engineers.**
+* **Tech:** React 19, Node.js, MongoDB, Tailwind CSS.
+* **Impact:** Implemented a Decoupled MERN Architecture with a Dynamic Query Engine that filters subtopics in real-time. Designed a "SaaS-dark" UI to reduce cognitive load during testing.
+
+### [🔒 Cipher Shield](https://github.com/Shreyansh3108/Cipher-Shield)
+**Secure real-time chat application.**
+* **Tech:** AES, RSA, ECC Encryption, Socket.io.
+* **Impact:** Built a zero-trust communication layer with multi-algorithm threat detection for end-to-end encrypted messaging.
+
+### [📊 Sorting Visualizer](https://github.com/Shreyansh3108/Sorting-Visualizer)
+**Interactive algorithm education tool.**
+* **Tech:** React, CSS Transitions.
+* **Impact:** Visualizes time complexity and swap operations for 5+ sorting algorithms in real-time.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Core**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Frontend & Design**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🧠 Coding Journey
+
+### **LeetCode Stats**
+> **Current Rating:** 1528  
+> **Problem Solving:** Focus on Graphs, DP, and Trees.
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter)
+
+---
+
+## 📈 GitHub Metrics
+
+| **Profile Stats** | **Most Used Languages** |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&layout=compact&hide_border=true) |
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Shreyansh3108&theme=dark&hide_border=true)
+
+---
+
+### 🤝 Let's Connect
+* **Email:** [nikkudwivedi4942@gmail.com](mailto:nikkudwivedi4942@gmail.com)
+* **LinkedIn:** [shreyansh-dwivedi-684b67274](https://linkedin.com/in/shreyansh-dwivedi-684b67274/)
+* **Portfolio:** *Coming Soon*
+
+[![](https://visitcount.itsvg.in/api?id=Shreyansh3108&icon=0&color=0)](https://visitcount.itsvg.in)
