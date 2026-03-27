@@ -50,17 +50,21 @@ I am a Junior at **IIIT Bhopal** (2022–2026) focused on building secure, high-
 ### **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+
 ---
 
 ## 🧠 Coding Journey
 
-### **LeetCode Stats**
-> **Current Rating:** 1528  
-> **Problem Solving:** Focus on Graphs, DP, and Trees.
+### **LeetCode Mastery**
+> **Current Rating:** 1528 | **Top 10% Globally** > Focused on high-level problem solving in Graphs, Dynamic Programming, and System Design.
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter)
+
+### **Consistency Tracker**
+![LeetCode Heatmap](https://leetcode-stats-six.vercel.app/api?username=Shreyansh_08&theme=dark)
 
 ---
+
 
 ## 📈 GitHub Metrics
 
