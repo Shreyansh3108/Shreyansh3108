@@ -1,4 +1,4 @@
-# 💫 Shreyansh Dwivedi
+#  Shreyansh Dwivedi
 > **Software Engineer specializing in scalable full-stack architectures, secure system design, and competitive programming.**
 > *Translating complex logic into fast, secure, and production-ready software.*
 
