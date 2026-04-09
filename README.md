@@ -31,9 +31,9 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 
 ## Production-Grade Systems
 
-### [Git Audit AI](https://github.com/Shreyansh3108/Git-Audit-AI) | **AI-Powered Security SaaS**
-* **The Impact:** Reduced manual code review effort by **80%** by automating repository security audits in under 20 seconds.
-* **Architecture:** Engineered a scalable backend with **Next.js 16**, **MongoDB**, and **Prisma**. Integrated **Gemini AI** for vulnerability detection, **Clerk** for authentication, and **Stripe** for credit monetization.
+### [Git Audit AI](https://github.com/Shreyansh3108/Git-Audit-AI) | **Automated Code Review Platform**
+* **The Impact:** Reduced manual code review effort by **80%** by automating repository audits and generating AI insights in under 20 seconds.
+* **Architecture:** Engineered a scalable backend with **Next.js 16**, **MongoDB**, and **Prisma**. Integrated **Gemini AI** for codebase analysis, **Clerk** for authentication, and **Stripe** for credit monetization.
 
 ### [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **MERN Stack Optimization**
 * **The Impact:** Optimized database performance by **30%** using Mongoose schema indexing and `.distinct()` aggregation.
@@ -62,19 +62,17 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 
 ## Coding Journey
 
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Shreyansh_08&theme=dark" width="48%" alt="LeetCode Stats" />
-  <img src="https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter" width="48%" alt="LeetCode Heatmap" />
-</div>
+| **Algorithmic Consistency** |
+| :---: |
+| <img src="https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter&ext=heatmap" width="800" alt="LeetCode Combined Stats" /> |
 
 ---
 
 ## Engineering Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&layout=compact&hide_border=false" width="40%" />
-</div>
+| **GitHub Metrics** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" /> |
 
 ---
 
