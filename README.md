@@ -72,11 +72,6 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh3108&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&layout=compact&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
