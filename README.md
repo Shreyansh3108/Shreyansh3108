@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 About Me
+##  About Me
 [cite_start]I am a Computer Science undergraduate at **IIIT Bhopal** [cite: 4] (Class of 2026) [cite_start][cite: 6] passionate about building scalable web applications and solving complex algorithmic challenges. My experience spans across the **MERN** and **Next.js** ecosystems, alongside a strong foundation in secure system design and performance optimization.
 
 * [cite_start] **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal[cite: 4, 5].
