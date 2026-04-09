@@ -19,29 +19,29 @@
 ## 📖 About Me
 [cite_start]I am a Computer Science undergraduate at **IIIT Bhopal** [cite: 4] (Class of 2026) [cite_start][cite: 6] passionate about building scalable web applications and solving complex algorithmic challenges. My experience spans across the **MERN** and **Next.js** ecosystems, alongside a strong foundation in secure system design and performance optimization.
 
-* [cite_start]🎓 **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal[cite: 4, 5].
-* [cite_start]🚀 **Experience:** Full-Stack Intern experienced in streamlining backend APIs and improving UI responsiveness[cite: 10, 12].
-* [cite_start]🧠 **Problem Solving:** Peak LeetCode Rating of **1600** (Top 23%) with 600+ algorithmic challenges solved[cite: 39, 40].
-* [cite_start]🏆 **Achievements:** Ranked in the Top 2000 globally in AtomQuest 2024 out of 14K+ participants[cite: 37].
+* [cite_start] **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal[cite: 4, 5].
+* [cite_start] **Experience:** Full-Stack Intern experienced in streamlining backend APIs and improving UI responsiveness[cite: 10, 12].
+* [cite_start] **Problem Solving:** Peak LeetCode Rating of **1600** (Top 23%) with 600+ algorithmic challenges solved[cite: 39, 40].
+* [cite_start] **Achievements:** Ranked in the Top 2000 globally in AtomQuest 2024 out of 14K+ participants[cite: 37].
 
 ---
 
-## 🏗️ Production-Grade Systems
+##  Production-Grade Systems
 
-### [⚡ Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **MERN Stack Optimization**
+### [ Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **MERN Stack Optimization**
 * [cite_start]**The Impact:** Optimized database performance by **30%** using Mongoose schema indexing and `.distinct()` aggregation[cite: 18].
 * [cite_start]**System Design:** Architected a decoupled deployment (Vercel/Render) utilizing **Axios interceptors** to mitigate "Cold Start" bottlenecks and ensure seamless session persistence[cite: 19].
 
-### [🔒 Cipher Shield](https://github.com/Shreyansh3108/Cipher-Shield) | **Security & AI**
+### [ Cipher Shield](https://github.com/Shreyansh3108/Cipher-Shield) | **Security & AI**
 * [cite_start]**Cryptographic Layer:** Built a secure messaging system leveraging **AES/ECC encryption** to mitigate ransomware-level risks[cite: 28, 30].
 * [cite_start]**Intelligence:** Integrated a threat-detection model trained on **5K+ labeled messages** to identify malicious patterns in real-time[cite: 31].
 
-### [📈 WealthSync](https://github.com/Shreyansh3108/WealthSync) | **Next.js 15 Serverless**
+### [ WealthSync](https://github.com/Shreyansh3108/WealthSync) | **Next.js 15 Serverless**
 * [cite_start]**Modern Stack:** Designed a high-performance finance dashboard with **Next.js 15** and serverless API routes for real-time data synchronization[cite: 20, 23].
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Coding Journey
+##  Coding Journey
 
 <div align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=Shreyansh_08&theme=dark" width="48%" alt="LeetCode Stats" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 Engineering Activity
+##  Engineering Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=false" width="48%" />
@@ -70,7 +70,7 @@
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 * [cite_start]**Email:** [nikkudwivedi4942@gmail.com](mailto:nikkudwivedi4942@gmail.com) [cite: 3]
 * [cite_start]**LinkedIn:** [shreyansh-dwivedi-684b67274](https://linkedin.com/in/shreyansh-dwivedi-684b67274/) [cite: 3]
 * **Portfolio:** *Coming Soon*
