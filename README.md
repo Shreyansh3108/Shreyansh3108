@@ -68,18 +68,15 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 
 ---
 
-## Engineering Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh3108&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
----
-
 ### Let's Connect
-* **Portfolio:** [shreyansh-portfolio-vmje.vercel.app](https://shreyansh-portfolio-vmje.vercel.app/)
-* **Email:** [nikkudwivedi4942@gmail.com](mailto:nikkudwivedi4942@gmail.com)
-* **LinkedIn:** [shreyansh-dwivedi-684b67274](https://linkedin.com/in/shreyansh-dwivedi-684b67274/)
+
+| Platform | Direct Link |
+| :--- | :--- |
+|  **Portfolio** | [shreyansh-portfolio-vmje.vercel.app](https://shreyansh-portfolio-vmje.vercel.app/) |
+|  **Email** | [nikkudwivedi4942@gmail.com](mailto:nikkudwivedi4942@gmail.com) |
+|  **LinkedIn** | [shreyansh-dwivedi-684b67274](https://linkedin.com/in/shreyansh-dwivedi-684b67274/) |
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreyansh3108&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
