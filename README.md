@@ -62,17 +62,22 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 
 ## Coding Journey
 
-| **Algorithmic Consistency** |
-| :---: |
-| <img src="https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter&ext=heatmap" width="800" alt="LeetCode Combined Stats" /> |
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter&ext=heatmap" width="650" alt="LeetCode Combined Stats" />
+</div>
 
 ---
 
 ## Engineering Activity
 
-| **GitHub Metrics** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" /> |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh3108&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyansh3108&theme=dark&show_icons=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh3108&theme=dark&layout=compact&hide_border=true" height="165" alt="Top Languages" />
+</div>
 
 ---
 
@@ -82,5 +87,5 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 * **LinkedIn:** [shreyansh-dwivedi-684b67274](https://linkedin.com/in/shreyansh-dwivedi-684b67274/)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shreyansh3108&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Shreyansh3108&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
 </p>
