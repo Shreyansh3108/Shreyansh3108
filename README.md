@@ -31,7 +31,7 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 
 ## Production-Grade Systems
 
-### [Git Audit AI](https://github.com/Shreyansh3108/Git-Audit-AI) | **Automated Code Review Platform**
+### [[Git Audit AI](https://github.com/Shreyansh3108/GitAudit-AI) | **Automated Code Review Platform**
 * **The Impact:** Reduced manual code review effort by **80%** by automating repository audits and generating AI insights in under 20 seconds.
 * **Architecture:** Engineered a scalable backend with **Next.js 16**, **MongoDB**, and **Prisma**. Integrated **Gemini AI** for codebase analysis, **Clerk** for authentication, and **Stripe** for credit monetization.
 
