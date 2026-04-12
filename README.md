@@ -39,7 +39,7 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) passion
 * **The Impact:** Optimized database performance by **30%** using Mongoose schema indexing and `.distinct()` aggregation.
 * **System Design:** Architected a decoupled deployment (Vercel/Render) utilizing **Axios interceptors** to mitigate "Cold Start" bottlenecks and ensure seamless session persistence.
 
-### [Cipher Shield](https://github.com/Shreyansh3108/Cipher-Shield) | **Security & AI**
+### [Cipher Shield](https://github.com/Harshit0502/Cipher_shield_V3) | **Security & AI**
 * **Cryptographic Layer:** Built a secure messaging system leveraging **AES/ECC encryption** to mitigate ransomware-level risks.
 * **Intelligence:** Integrated a threat-detection model trained on **5K+ labeled messages** to identify malicious patterns in real-time.
 
