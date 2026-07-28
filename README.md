@@ -1,7 +1,8 @@
 <div align="center">
-  <h1><b>SHREYANSH DWIVEDI</b></h1>
-  <p><code>Software Development Engineer (SDE) • Full-Stack Architectures • Distributed Systems</code></p>
-  <p><i>Translating algorithmic complexity into production-grade, fault-tolerant cloud software.</i></p>
+  <a href="https://shreyansh-portfolio-vmje.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=SHREYANSH+DWIVEDI;Software+Development+Engineer+(SDE);Full-Stack+Architectures+%7C+Distributed+Systems;600%2B+DSA+Solved+%7C+IIIT+Bhopal+'26" alt="Typing SVG" />
+  </a>
+  <p><code>Translating algorithmic complexity into production-grade, fault-tolerant cloud software.</code></p>
   <br/>
   
   <a href="https://shreyansh-portfolio-vmje.vercel.app/">
@@ -54,7 +55,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 ---
 
 ### 2. [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) • `Answer Engine Optimization (AEO) Diagnostic Platform`
-> Engineered a diagnostic engine that benchmarks brand visibility across generative AI search assistants. Designed a parallel LLM orchestration pipeline (`Promise.allSettled`) querying **Meta Llama 3.3 (70B) via Groq Cloud** and **Gemini 2.5 Flash** for low-latency data aggregation, feeding into **Gemini 1.5 Pro** for deep strategic synthesis with fault-tolerant fallback isolation.
+> Engineered an Answer Engine Optimization (AEO) diagnostic platform that benchmarks brand visibility across generative AI assistants. Designed a parallel LLM orchestration pipeline (`Promise.allSettled`) querying **Meta Llama 3.3 (70B) via Groq Cloud** and **Gemini 2.5 Flash** for low-latency data aggregation, feeding into **Gemini 1.5 Pro** for deep strategic synthesis with fault-tolerant fallback isolation.
 
 <details>
 <summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
@@ -88,16 +89,16 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 ---
 
 ### 4. [CogniFi](https://github.com/Shreyansh3108/Cognifi) • `AI-Driven Workflow & Intelligence Engine`
-> Developed an intelligent web platform structured for automated data processing, predictive evaluation, and secure user session management. Built with modern full-stack technologies to ensure seamless client-server communication, reliable asynchronous task handling, and a modular component hierarchy.
+> Architected an intelligent full-stack workflow and data-reasoning platform structured for automated intelligence processing and predictive evaluation. Designed asynchronous background worker pipelines to execute compute-heavy data transformations without blocking client threads, implementing strict boundary validation and role-based session isolation for enterprise-grade security.
 
 <details>
 <summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
 <br/>
 <blockquote>
   <ul>
-    <li><b>Security & Auth:</b> Implemented strict authentication protocols and data validation boundaries to safeguard session integrity.</li>
-    <li><b>Performance:</b> Optimized frontend component rendering to maintain responsive UI interactions during intensive processing tasks.</li>
-    <li><b>Task Scheduling:</b> Structured backend API routes to efficiently manage long-running intelligence workflows without client timeouts.</li>
+    <li><b>Asynchronous Task Execution:</b> Structured backend API routes to efficiently manage long-running AI intelligence workflows without triggering client HTTP timeouts.</li>
+    <li><b>Security & Auth Boundaries:</b> Implemented strict authentication protocols and schema validation layers to safeguard user data and session integrity.</li>
+    <li><b>Component Optimization:</b> Engineered a modular frontend layout designed to maintain smooth UI rendering during real-time data hydration and heavy data processing.</li>
   </ul>
 </blockquote>
 </details>
@@ -155,7 +156,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 | **Programming Languages** | `C++` • `Java` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `SQL` |
 | **Frontend Ecosystem** | `Next.js (15/16)` • `React (Vite)` • `Tailwind CSS` • `ShadCN UI` • `Recharts` • `Redux Toolkit` • `Zustand` |
 | **Backend & Cloud Architecture** | `Node.js` • `Express.js` • `RESTful APIs` • `Upstash QStash` • `Serverless / Edge` • `Vercel` • `Render` • `AWS` |
-| **Databases & Edge Caching** | `PostgreSQL` • `MongoDB` • `Upstash Redis` • `Supabase` • `Prisma ORM (v7.8)` • `Mongoose` |
+| **Databases & Edge Caching** | `PostgreSQL` • `MongoDB` • `Upstash Redis` • `Supabase` • `Prisma ORM` • `Mongoose` |
 | **DevOps, AI & Security** | `Git` • `GitHub` • `Docker` • `Groq Cloud SDK` • `Google Gemini API` • `Zod` • `Stripe API` • `Clerk Auth` |
 
 ---
