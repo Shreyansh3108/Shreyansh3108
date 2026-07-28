@@ -1,62 +1,95 @@
 # Shreyansh Dwivedi
-**Full-Stack & Backend Software Engineer | IIIT Bhopal '26**
+> **Software Engineer specializing in scalable full-stack architectures, secure system design, and AI-powered applications.**
+> *Translating complex algorithmic logic into fast, resilient, and production-ready software.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://shreyansh-portfolio-vmje.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-dwivedi-684b67274/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreyansh_08/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikkudwivedi4942@gmail.com)
-
----
-
-### About Me
-I am a Computer Science undergraduate specializing in scalable web architectures, asynchronous backend systems, and applied AI integrations. I build production-ready applications within the **Next.js** and **MERN** ecosystems, backed by rigorous data structure and algorithmic problem-solving in **C++**.
-
-* **Engineering Focus:** Designing RESTful APIs, optimizing database query performance, managing decoupled cloud deployments, and integrating LLM pipelines.
-* **Algorithmic Rigor:** 600+ problems solved across LeetCode, GeeksforGeeks, and CodeChef.
-* **Recognition:** Ranked Top 2,000 globally in AtomQuest out of 14,000+ participants.
-
----
-
-### Featured Systems & AI Platforms
-
-#### [Cognifi / GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) — Automated Code Review & Security SaaS
-* **Architecture:** Scalable full-stack application built with **Next.js 16**, **MongoDB**, and **Prisma ORM**.
-* **Key Implementation:** Integrated **Gemini AI** to automate repository audits and generate code-quality insights in under 20 seconds. Configured secure session authentication via **Clerk** and credit-based monetization using billing webhooks with **Stripe**.
-
-#### [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) — AI-Powered Analytics Engine
-* **Architecture:** Decoupled client-server architecture leveraging **Render** for reliable backend API execution and **Vercel** for high-performance frontend delivery.
-* **Key Implementation:** Designed robust data-fetching pipelines and responsive UI interfaces to deliver real-time analytical evaluation and reporting.
-
-#### [Agentwire](https://github.com/Shreyansh3108/Agentwire) — Autonomous Workflow & Integration Platform
-* **Architecture:** Modern web stack structured for low-latency asynchronous processing and modular service integration.
-* **Key Implementation:** Built scalable data routing and state management to support automated processing and streamlined user workflows.
-
-#### [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) — High-Performance Web Platform
-* **Architecture:** Full-stack architecture optimized for seamless data synchronization and clean component modularity.
-* **Key Implementation:** Focuses on secure data handling, responsive frontend state management, and optimized backend communication.
+<div align="center">
+  <a href="https://shreyansh-portfolio-vmje.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/shreyansh-dwivedi-684b67274/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nikkudwivedi4942@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Shreyansh_08/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
 
 ---
 
-### Full-Stack & Systems Engineering
+## Executive Summary
+I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) focused on engineering high-performance web applications, distributed backend services, and AI-driven SaaS platforms. Combining deep proficiency in the **Next.js** and **MERN** ecosystems with rigorous algorithmic problem-solving, I specialize in writing clean, secure, and maintainable code for production environments.
 
-#### [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) — Optimized MERN Stack Application
-* **Database Optimization:** Improved MongoDB read/write efficiency by **30%** by implementing strategic Mongoose schema indexing and `.distinct()` aggregations.
-* **Reliability:** Designed a decoupled cloud deployment utilizing custom **Axios interceptors** to handle token persistence and mitigate serverless cold-start latency.
-
-#### [Cipher Shield](https://github.com/Harshit0502/Cipher_shield_V3) — Cryptographic Communication & Threat Detection
-* **Security Layer:** Developed a secure messaging pipeline implementing **AES and ECC encryption** protocols to ensure end-to-end data confidentiality.
-* **Machine Learning:** Integrated a custom threat-detection model trained on **5,000+ labeled payloads** to identify and intercept malicious communication patterns in real time.
-
-#### [WealthSync](https://github.com/Shreyansh3108/WealthSync) — Serverless Finance Dashboard
-* **Modern Stack:** Built a real-time financial tracking interface using **Next.js 15**, **TypeScript**, and serverless API routes for rapid data hydration.
+* **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal (Class of 2026).
+* **Engineering Focus:** Full-Stack & Backend architecture, RESTful API design, database indexing, and LLM pipelines.
+* **Problem Solving:** Solved **600+ algorithmic challenges** across LeetCode, GeeksforGeeks, and CodeChef using C++.
+* **Achievements:** Ranked in the Top 2,000 globally in AtomQuest out of 14,000+ participants.
 
 ---
 
-### Technical Skills
+## Production-Grade Systems & AI Platforms
 
-```txt
-Languages          : C++, JavaScript (ES6+), TypeScript, Python, SQL
-Frontend           : Next.js (15/16), React.js, Tailwind CSS, ShadCN UI, Redux
-Backend & Cloud    : Node.js, Express.js, REST APIs, Socket.io, Serverless, Vercel, Render
-Databases & ORMs   : MongoDB, PostgreSQL, Redis, Prisma ORM, Mongoose
-Tools & Security   : Git, GitHub, AWS, Docker, Postman, Stripe API, Clerk Auth, AES/ECC
+### [GitAudit AI (CogniFi)](https://github.com/Shreyansh3108/GitAudit-AI) | **AI-Powered Code Review & Security SaaS**
+* **The Impact:** Reduced manual code review effort by **80%** by automating repository security audits and delivering AI-generated codebase analysis in under 20 seconds.
+* **Architecture:** Engineered a scalable full-stack backend utilizing **Next.js**, **MongoDB**, and **Prisma ORM**. Integrated **Gemini AI** for automated analysis, **Clerk** for secure session authentication, and **Stripe** webhooks for credit monetization.
+
+### [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) | **AI-Powered Analytical Evaluation Engine**
+* **System Architecture:** Designed a high-availability, decoupled client-server deployment utilizing **Render** for reliable backend API execution and **Vercel** for low-latency frontend delivery.
+* **Core Implementation:** Developed robust data routing pipelines and responsive interfaces to execute real-time automated evaluations and deliver actionable analytical insights.
+
+### [Agentwire](https://github.com/Shreyansh3108/Agentwire) | **Autonomous Workflow & Integration Platform**
+* **System Design:** Architected a modern full-stack web application built for asynchronous data processing, modular task automation, and seamless service integrations.
+* **Performance:** Focused on clean component modularity, scalable state management, and optimized backend communication to ensure a responsive end-user experience.
+
+### [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) | **Full-Stack Connectivity Platform**
+* **Core Engineering:** Built a responsive web application leveraging modern backend APIs to streamline data synchronization and maintain reliable client-server communication.
+* **Architecture:** Prioritized clean separation of concerns, scalable database interactions, and an intuitive, accessible frontend interface.
+
+### [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **High-Performance MERN Application**
+* **Database Optimization:** Boosted database query performance by **30%** by implementing strategic Mongoose schema indexing and advanced `.distinct()` aggregations.
+* **Reliability:** Engineered a decoupled deployment structure implementing custom **Axios interceptors** to eliminate serverless "cold start" latency and guarantee seamless session persistence.
+
+### [Cipher Shield](https://github.com/Harshit0502/Cipher_shield_V3) | **Cryptographic Security & Threat Intelligence**
+* **Cryptographic Layer:** Designed an end-to-end secure messaging system utilizing **AES and ECC encryption** protocols to mitigate data interception and ransomware risks.
+* **Machine Learning:** Integrated a threat-detection model trained on **5,000+ labeled payloads** to identify and intercept malicious patterns in real time.
+
+### [WealthSync](https://github.com/Shreyansh3108/WealthSync) | **Serverless Financial Dashboard**
+* **Modern Stack:** Developed a responsive financial management dashboard utilizing **Next.js 15**, **TypeScript**, and serverless API routes for real-time data hydration.
+
+---
+
+## Technical Arsenal
+
+| **Domain** | **Technologies & Tools** |
+| :--- | :--- |
+| **Languages** | `C++`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
+| **Frontend Ecosystem** | `Next.js (15/16)`, `React.js`, `Tailwind CSS`, `ShadCN UI`, `Redux Toolkit`, `Zustand` |
+| **Backend & Cloud** | `Node.js`, `Express.js`, `REST APIs`, `Socket.io`, `Serverless`, `Vercel`, `Render`, `AWS` |
+| **Databases & ORMs** | `MongoDB`, `PostgreSQL`, `Redis`, `Prisma ORM`, `Mongoose` |
+| **Tools & Integrations** | `Git`, `GitHub`, `Docker`, `Postman`, `Stripe API`, `Clerk Auth`, `Gemini AI` |
+
+---
+
+## Coding Journey
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shreyansh_08?theme=dark&font=Inter&ext=heatmap" width="650" alt="LeetCode Combined Stats" />
+</div>
+
+---
+
+### Let's Connect
+
+| Platform | Direct Link |
+| :--- | :--- |
+|  **Portfolio** | [shreyansh-portfolio-vmje.vercel.app](https://shreyansh-portfolio-vmje.vercel.app/) |
+|  **Email** | [nikkudwivedi4942@gmail.com](mailto:nikkudwivedi4942@gmail.com) |
+|  **LinkedIn** | [shreyansh-dwivedi-684b67274](https://linkedin.com/in/shreyansh-dwivedi-684b67274/) |
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreyansh3108&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+</p>
