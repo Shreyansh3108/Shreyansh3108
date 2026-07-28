@@ -22,48 +22,48 @@
 
 ## 📌 Professional Snapshot
 
-I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026) focused on designing high-throughput web architectures, low-latency backend microservices, and applied AI platforms. Combining deep proficiency across the **Next.js**, **React**, and **MERN** ecosystems with rigorous algorithmic problem-solving in **C++** and **Java**, I build software designed for high availability, security, and long-term maintainability.
+I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026) focused on designing high-throughput web architectures, low-latency edge microservices, and applied AI orchestration platforms. Combining deep proficiency across the **Next.js**, **React**, and **MERN** ecosystems with rigorous algorithmic problem-solving in **C++** and **Java**, I build resilient software designed to bypass serverless timeouts, handle concurrent traffic spikes, and guarantee data schema integrity.
 
 | **Focus Area** | **Technical Specification & Metric** |
 | :--- | :--- |
 | 🎓 **Academic Background** | B.Tech in Computer Science & Engineering @ **IIIT Bhopal** (Class of 2026) |
 | 🧠 **Algorithmic Rigor** | **600+ DSA challenges solved** across LeetCode, GeeksforGeeks, and CodeChef |
 | 🏆 **Global Competence** | Ranked in the **Top 2,000 globally** in AtomQuest out of **14,000+** participating engineers |
-| ⚙️ **Engineering Core** | Distributed Backend Architecture, RESTful APIs, Database Indexing, LLM Integration Pipelines |
+| ⚙️ **Engineering Core** | Edge Caching, Asynchronous Queue Brokering, Parallel LLM Orchestration, RESTful APIs |
 | 💼 **Role Target** | Seeking full-time **Software Development Engineer (SDE)**, Backend, and Full-Stack roles |
 
 ---
 
 ## 🚀 Featured Systems & AI Platforms
 
-### 1. [Agentwire](https://github.com/Shreyansh3108/Agentwire) • `Autonomous Agent & Workflow Infrastructure`
-> Developed a scalable full-stack web application structured for low-latency asynchronous task processing and automated workflow execution. Designed modular service integrations, clean API routing, and robust state management to support complex, multi-step automated user interactions.
+### 1. [AgentWire](https://github.com/Shreyansh3108/Agentwire) • `Event-Driven AI Orchestration & Edge Ingestion`
+> Architected an event-driven developer platform featuring **`<30ms` edge webhook ingestion** via Vercel Edge and **Upstash QStash** message brokering to eliminate 10–15s serverless LLM timeouts. Engineered an autonomous syntax self-healing pipeline using **Google Gemini** and TypeScript-native **Zod** rules to intercept malformed JSON payloads, correcting schema errors before execution in **PostgreSQL (Prisma ORM)**.
 
 <details>
 <summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
 <br/>
 <blockquote>
   <ul>
-    <li><b>State & Routing:</b> Architected clean separation between client-side state and backend task execution pipelines.</li>
-    <li><b>Scalability:</b> Optimized data serialization and routing to handle concurrent requests with minimal server overhead.</li>
-    <li><b>Modularity:</b> Structured service integrations to allow rapid onboarding of external toolsets and automated workflows.</li>
+    <li><b>Asynchronous Queue Brokering:</b> Offloaded webhook payloads to Upstash QStash with automated retries, exponential backoff, and dead-letter queues to ensure 99.9% ingestion reliability during downstream traffic spikes.</li>
+    <li><b>Autonomous Self-Healing:</b> Configured secondary AI reasoning passes to catch missing JSON keys and syntax drift, automatically aligning output with strict database contracts without runtime crashes.</li>
+    <li><b>Full-Stack Observability:</b> Implemented a 1-click payload replay engine and execution logging framework tracking raw headers, queue latency timestamps, and LLM token usage.</li>
   </ul>
 </blockquote>
 </details>
 
 ---
 
-### 2. [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) • `Automated Analytical Evaluation Platform`
-> Architected a high-availability, decoupled client-server deployment utilizing **Render** for reliable backend API execution and **Vercel** for low-latency frontend delivery. Developed robust data-routing pipelines and responsive interfaces to execute real-time automated scoring and deliver actionable analytical reporting.
+### 2. [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) • `Answer Engine Optimization (AEO) Diagnostic Platform`
+> Engineered a diagnostic engine that benchmarks brand visibility across generative AI search assistants. Designed a parallel LLM orchestration pipeline (`Promise.allSettled`) querying **Meta Llama 3.3 (70B) via Groq Cloud** and **Gemini 2.5 Flash** for low-latency data aggregation, feeding into **Gemini 1.5 Pro** for deep strategic synthesis with fault-tolerant fallback isolation.
 
 <details>
 <summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
 <br/>
 <blockquote>
   <ul>
-    <li><b>Decoupled Deployment:</b> Engineered independent scaling for frontend user interfaces and compute-heavy backend processing engines.</li>
-    <li><b>API Integration:</b> Configured structured data validation and error-handling pipelines for seamless client-server communication.</li>
-    <li><b>Data Visualization:</b> Built intuitive reporting interfaces optimized for real-time analytical updates and rapid data hydration.</li>
+    <li><b>Parallel API Orchestration:</b> Replaced sequential network bottlenecks with concurrent endpoint execution, wrapped in strict timeout controllers to isolate third-party rate limits.</li>
+    <li><b>Decoupled Deployment:</b> Utilized <b>Render</b> for intensive Node.js/Express backend execution and <b>Vercel</b> for high-speed React (Vite) + Tailwind CSS v4 frontend delivery.</li>
+    <li><b>Graceful Degradation:</b> Architected backend controllers to serve partial aggregation telemetry if an individual LLM endpoint drops, preventing client UI crashes.</li>
   </ul>
 </blockquote>
 </details>
@@ -71,16 +71,16 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 ---
 
 ### 3. [GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) • `Automated Code Review & Security SaaS`
-> Engineered a scalable full-stack backend utilizing **Next.js 16**, **MongoDB**, and **Prisma ORM**. Reduced manual code review effort by **80%** by automating repository security audits and delivering AI-generated architectural insights in under **20 seconds**. Integrated **Gemini AI** for codebase analysis, **Clerk** for secure authentication, and **Stripe** webhooks for credit-based monetization.
+> Developed an automated repository architecture and security scanning platform validated across **50+ production codebases**, reducing manual engineering review effort by **~80%** with complete report generation in **`<20s`**. Built a **Next.js 16** and **MongoDB** backend integrating Gemini AI for AST dependency analysis, credit-gated via asynchronous **Stripe billing webhooks** and **Clerk RBAC**.
 
 <details>
 <summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
 <br/>
 <blockquote>
   <ul>
-    <li><b>AI Pipeline:</b> Configured asynchronous prompt engineering pipelines to analyze abstract syntax trees and flag security vulnerabilities.</li>
-    <li><b>Monetization Engine:</b> Integrated secure Stripe webhook event listeners to handle automated user credit deduction and billing cycles.</li>
-    <li><b>Session Security:</b> Implemented robust role-based access control (RBAC) and JWT authentication via ClerkAuth.</li>
+    <li><b>Webhook-Synchronized Identity:</b> Configured network-edge event listeners to capture Stripe checkout events, asynchronously updating user credit ledgers in MongoDB without race conditions.</li>
+    <li><b>Context Optimization:</b> Replaced naive full-repo ingestion with targeted file-tree and manifest parsing to prevent LLM context-window overflow and eliminate hallucinated findings.</li>
+    <li><b>Session Security:</b> Implemented role-based access control and strict API route protection to secure endpoint execution against unauthorized scraping and DDoS attempts.</li>
   </ul>
 </blockquote>
 </details>
@@ -104,17 +104,17 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 5. [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) • `Full-Stack Connectivity & Synchronization Hub`
-> Built a responsive, highly available web application focused on seamless data synchronization and robust external API integrations. Prioritized scalable database interactions, clean separation of concerns, and an intuitive, accessible frontend architecture.
+### 5. [NexusLink](https://github.com/Shreyansh3108/Nexuslink) • `Edge-Cached URL Shortener & Analytics Hub`
+> Built a high-performance URL shortener engineered for sub-millisecond redirects and minimal latency (**Sub-15ms P99**). Implemented a distributed caching layer using **Upstash Redis** backed by **Supabase (PostgreSQL)**, paired with an **Express.js API** protected by custom header authentication (`x-api-key`) and real-time **Recharts** traffic polling.
 
 <details>
 <summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
 <br/>
 <blockquote>
   <ul>
-    <li><b>Data Synchronization:</b> Designed efficient data-fetching and caching strategies to minimize redundant network requests.</li>
-    <li><b>Code Modularity:</b> Structured codebase utilizing clean architecture principles for long-term maintainability and component reusability.</li>
-    <li><b>Error Handling:</b> Configured comprehensive fallback states and graceful degradation for external API failures.</li>
+    <li><b>Distributed Edge Caching:</b> Architected an Express backend that queries Upstash Redis first, achieving instant cache-hit redirects and asynchronously seeding cache misses from Supabase.</li>
+    <li><b>Asynchronous Analytics Tracking:</b> Decoupled click-telemetry write operations from the primary redirect flow, ensuring logging queries never degrade P99 user latency.</li>
+    <li><b>API Security & Custom Aliases:</b> Enforced header-based authentication to prevent automated scraping while supporting user-defined custom routing aliases.</li>
   </ul>
 </blockquote>
 </details>
@@ -153,10 +153,10 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 | **Domain** | **Technologies & Frameworks** |
 | :--- | :--- |
 | **Programming Languages** | `C++` • `Java` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `SQL` |
-| **Frontend Ecosystem** | `Next.js (15/16)` • `React.js` • `Tailwind CSS` • `ShadCN UI` • `Redux Toolkit` • `Zustand` |
-| **Backend & Cloud Architecture** | `Node.js` • `Express.js` • `RESTful APIs` • `Socket.io` • `Serverless` • `Vercel` • `Render` • `AWS` |
-| **Databases & ORMs** | `MongoDB` • `PostgreSQL` • `Redis` • `Prisma ORM` • `Mongoose` |
-| **DevOps, Tools & APIs** | `Git` • `GitHub` • `Docker` • `Postman` • `Stripe API` • `Clerk Auth` • `Gemini AI` |
+| **Frontend Ecosystem** | `Next.js (15/16)` • `React (Vite)` • `Tailwind CSS` • `ShadCN UI` • `Recharts` • `Redux Toolkit` • `Zustand` |
+| **Backend & Cloud Architecture** | `Node.js` • `Express.js` • `RESTful APIs` • `Upstash QStash` • `Serverless / Edge` • `Vercel` • `Render` • `AWS` |
+| **Databases & Edge Caching** | `PostgreSQL` • `MongoDB` • `Upstash Redis` • `Supabase` • `Prisma ORM (v7.8)` • `Mongoose` |
+| **DevOps, AI & Security** | `Git` • `GitHub` • `Docker` • `Groq Cloud SDK` • `Google Gemini API` • `Zod` • `Stripe API` • `Clerk Auth` |
 
 ---
 
@@ -170,7 +170,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### Let's Connect & Collaborate
 
 Actively participating in engineering interviews for **Software Development Engineer (SDE), Backend, and Full-Stack roles**. Feel free to connect via email or LinkedIn to discuss scalable system design, open opportunities, or collaborative builds.
 
