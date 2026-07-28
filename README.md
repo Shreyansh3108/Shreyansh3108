@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://shreyansh-portfolio-vmje.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=SHREYANSH+DWIVEDI;Software+Development+Engineer+(SDE);Full-Stack+Architectures+%7C+Distributed+Systems;600%2B+DSA+Solved+%7C+IIIT+Bhopal+'26" alt="Typing SVG" />
-  </a>
-  <p><code>Translating algorithmic complexity into production-grade, fault-tolerant cloud software.</code></p>
+  <h1><b>SHREYANSH DWIVEDI</b></h1>
+  <h3>Software Development Engineer (SDE)</h3>
+  <p><code>Full-Stack Architectures</code> • <code>Distributed Systems</code> • <code>Applied AI Orchestration</code></p>
+  <p><i>Translating algorithmic complexity into production-grade, fault-tolerant cloud software.</i></p>
   <br/>
   
   <a href="https://shreyansh-portfolio-vmje.vercel.app/">
