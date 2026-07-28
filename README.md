@@ -1,6 +1,8 @@
 <div align="center">
-  <h1><b>SHREYANSH DWIVEDI</b></h1>
-  <h3>Software Development Engineer (SDE)</h3>
+  <a href="https://shreyansh-portfolio-vmje.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1E3A8A,100:2563EB&height=220&section=header&text=SHREYANSH%20DWIVEDI&fontSize=46&fontColor=ffffff&fontAlignY=48&desc=Software%20Development%20Engineer%20(SDE)%20%E2%80%A2%20Full-Stack%20Architectures&descAlignY=72&descSize=16&descColor=93C5FD" alt="Shreyansh Dwivedi Header" width="100%" />
+  </a>
+  <br/>
   <p><code>Full-Stack Architectures</code> • <code>Distributed Systems</code> • <code>Applied AI Orchestration</code></p>
   <p><i>Translating algorithmic complexity into production-grade, fault-tolerant cloud software.</i></p>
   <br/>
