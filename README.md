@@ -1,6 +1,6 @@
 # Shreyansh Dwivedi
-> **Software Engineer specializing in scalable full-stack architectures, secure system design, and AI-powered applications.**
-> *Translating complex algorithmic logic into fast, resilient, and production-ready software.*
+> **Software Engineer specializing in scalable full-stack architectures, distributed backend systems, and AI-powered platforms.**
+> *Translating complex algorithmic logic into fast, secure, and production-ready software.*
 
 <div align="center">
   <a href="https://shreyansh-portfolio-vmje.vercel.app/">
@@ -20,43 +20,47 @@
 ---
 
 ## Executive Summary
-I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) focused on engineering high-performance web applications, distributed backend services, and AI-driven SaaS platforms. Combining deep proficiency in the **Next.js** and **MERN** ecosystems with rigorous algorithmic problem-solving, I specialize in writing clean, secure, and maintainable code for production environments.
+I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) focused on building high-performance web applications, resilient backend APIs, and intelligent AI SaaS platforms. Combining hands-on expertise in the **Next.js** and **MERN** ecosystems with a rigorous foundation in data structures and algorithms, I build software designed for high availability, low latency, and clean maintainability.
 
-* **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal (Class of 2026).
-* **Engineering Focus:** Full-Stack & Backend architecture, RESTful API design, database indexing, and LLM pipelines.
-* **Problem Solving:** Solved **600+ algorithmic challenges** across LeetCode, GeeksforGeeks, and CodeChef using C++.
-* **Achievements:** Ranked in the Top 2,000 globally in AtomQuest out of 14,000+ participants.
+* **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal (Graduating June 2026).
+* **Engineering Focus:** Full-Stack & Backend architecture, RESTful API design, database query optimization, and asynchronous AI pipelines.
+* **Algorithmic Rigor:** Solved **600+ algorithmic challenges** across LeetCode, GeeksforGeeks, and CodeChef using C++ and Java.
+* **Key Recognition:** Ranked in the Top 2,000 globally in AtomQuest out of 14,000+ participating engineers.
 
 ---
 
 ## Production-Grade Systems & AI Platforms
 
-### [GitAudit AI (CogniFi)](https://github.com/Shreyansh3108/GitAudit-AI) | **AI-Powered Code Review & Security SaaS**
-* **The Impact:** Reduced manual code review effort by **80%** by automating repository security audits and delivering AI-generated codebase analysis in under 20 seconds.
-* **Architecture:** Engineered a scalable full-stack backend utilizing **Next.js**, **MongoDB**, and **Prisma ORM**. Integrated **Gemini AI** for automated analysis, **Clerk** for secure session authentication, and **Stripe** webhooks for credit monetization.
+### [GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) | **Automated Code Review & Security SaaS**
+* **The Impact:** Reduced manual code review effort by **80%** by automating repository security audits and delivering AI-generated architectural insights in under **20 seconds**.
+* **System Architecture:** Engineered a scalable full-stack backend utilizing **Next.js**, **MongoDB**, and **Prisma ORM**. Integrated **Gemini AI** for automated codebase analysis, **Clerk** for secure session authentication, and **Stripe** webhooks for credit-based monetization.
 
-### [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) | **AI-Powered Analytical Evaluation Engine**
-* **System Architecture:** Designed a high-availability, decoupled client-server deployment utilizing **Render** for reliable backend API execution and **Vercel** for low-latency frontend delivery.
-* **Core Implementation:** Developed robust data routing pipelines and responsive interfaces to execute real-time automated evaluations and deliver actionable analytical insights.
+### [CogniFi](https://github.com/Shreyansh3108/Cognifi) | **AI-Driven Workflow & Intelligence Engine**
+* **Core Engineering:** Developed an intelligent web platform structured for automated data processing, predictive evaluation, and secure user session management.
+* **System Architecture:** Built with modern full-stack technologies to ensure seamless client-server communication, reliable asynchronous task handling, and a modular, maintainable component hierarchy.
 
-### [Agentwire](https://github.com/Shreyansh3108/Agentwire) | **Autonomous Workflow & Integration Platform**
-* **System Design:** Architected a modern full-stack web application built for asynchronous data processing, modular task automation, and seamless service integrations.
-* **Performance:** Focused on clean component modularity, scalable state management, and optimized backend communication to ensure a responsive end-user experience.
+### [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) | **Automated Analytical Evaluation Platform**
+* **System Design:** Architected a high-availability, decoupled client-server deployment utilizing **Render** for reliable backend API execution and **Vercel** for low-latency frontend delivery.
+* **Implementation:** Developed robust data-routing pipelines and responsive interfaces to execute real-time automated scoring and deliver actionable analytical reporting.
 
-### [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) | **Full-Stack Connectivity Platform**
-* **Core Engineering:** Built a responsive web application leveraging modern backend APIs to streamline data synchronization and maintain reliable client-server communication.
-* **Architecture:** Prioritized clean separation of concerns, scalable database interactions, and an intuitive, accessible frontend interface.
+### [Agentwire](https://github.com/Shreyansh3108/Agentwire) | **Autonomous Agent & Workflow Infrastructure**
+* **Core Engineering:** Developed a modular full-stack application structured for asynchronous task processing and automated workflow execution.
+* **Architecture:** Designed clean REST API routing and state management to support complex, multi-step user interactions with minimal server overhead.
 
-### [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **High-Performance MERN Application**
-* **Database Optimization:** Boosted database query performance by **30%** by implementing strategic Mongoose schema indexing and advanced `.distinct()` aggregations.
-* **Reliability:** Engineered a decoupled deployment structure implementing custom **Axios interceptors** to eliminate serverless "cold start" latency and guarantee seamless session persistence.
+### [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) | **Full-Stack Connectivity & Synchronization Hub**
+* **System Architecture:** Built a responsive, highly available web application focused on seamless data synchronization and robust external API integrations.
+* **Performance:** Prioritized scalable database interactions, clean separation of concerns, and an intuitive, accessible frontend architecture.
+
+### [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **High-Performance MERN Stack Application**
+* **Database Optimization:** Boosted database read/write performance by **30%** by implementing strategic Mongoose schema indexing and advanced `.distinct()` aggregations.
+* **Reliability:** Engineered a decoupled cloud deployment implementing custom **Axios interceptors** to eliminate serverless "cold start" latency and guarantee seamless session persistence.
 
 ### [Cipher Shield](https://github.com/Harshit0502/Cipher_shield_V3) | **Cryptographic Security & Threat Intelligence**
-* **Cryptographic Layer:** Designed an end-to-end secure messaging system utilizing **AES and ECC encryption** protocols to mitigate data interception and ransomware risks.
-* **Machine Learning:** Integrated a threat-detection model trained on **5,000+ labeled payloads** to identify and intercept malicious patterns in real time.
+* **Security Layer:** Designed an end-to-end secure messaging system utilizing **AES and ECC encryption** protocols to mitigate data interception and ransomware risks.
+* **Machine Learning:** Integrated a threat-detection model trained on **5,000+ labeled payloads** to identify and intercept malicious communication patterns in real time.
 
-### [WealthSync](https://github.com/Shreyansh3108/WealthSync) | **Serverless Financial Dashboard**
-* **Modern Stack:** Developed a responsive financial management dashboard utilizing **Next.js 15**, **TypeScript**, and serverless API routes for real-time data hydration.
+### [WealthSync](https://github.com/Shreyansh3108/WealthSync) | **Serverless Financial Management Dashboard**
+* **Modern Stack:** Developed a responsive financial tracking dashboard utilizing **Next.js 15**, **TypeScript**, and serverless API routes for real-time data hydration and synchronization.
 
 ---
 
@@ -64,11 +68,11 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) focused
 
 | **Domain** | **Technologies & Tools** |
 | :--- | :--- |
-| **Languages** | `C++`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
+| **Languages** | `C++`, `Java`, `JavaScript (ES6+)`, `TypeScript`, `Python`, `SQL` |
 | **Frontend Ecosystem** | `Next.js (15/16)`, `React.js`, `Tailwind CSS`, `ShadCN UI`, `Redux Toolkit`, `Zustand` |
 | **Backend & Cloud** | `Node.js`, `Express.js`, `REST APIs`, `Socket.io`, `Serverless`, `Vercel`, `Render`, `AWS` |
 | **Databases & ORMs** | `MongoDB`, `PostgreSQL`, `Redis`, `Prisma ORM`, `Mongoose` |
-| **Tools & Integrations** | `Git`, `GitHub`, `Docker`, `Postman`, `Stripe API`, `Clerk Auth`, `Gemini AI` |
+| **Tools & DevOps** | `Git`, `GitHub`, `Docker`, `Postman`, `Stripe API`, `Clerk Auth`, `Gemini AI` |
 
 ---
 
@@ -80,7 +84,9 @@ I am a Computer Science undergraduate at **IIIT Bhopal** (Class of 2026) focused
 
 ---
 
-### Let's Connect
+### Let's Connect & Collaborate
+
+I am actively open to **Full-Time Software Development Engineer (SDE), Backend, and Full-Stack roles**. Feel free to reach out to discuss scalable system design, new opportunities, or collaborative builds!
 
 | Platform | Direct Link |
 | :--- | :--- |
