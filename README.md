@@ -1,5 +1,5 @@
 # Shreyansh Dwivedi
-> **Software Development Engineer (SDE) | Full-Stack Architectures & Distributed Systems**
+> **Software Development Engineer | Full-Stack Architectures & Distributed Systems**
 > *Translating complex algorithmic logic into fast, secure, and production-ready cloud software.*
 
 <div align="center">
@@ -19,31 +19,28 @@
 
 ---
 
-## ⚡ Recruiter Fast-Track (Executive Summary)
+## Professional Profile
 
-I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026) experienced in building end-to-end full-stack applications, resilient backend microservices, and AI-driven SaaS platforms. Combine hands-on expertise across the **Next.js**, **React**, and **MERN** ecosystems with rigorous data structures and algorithms proficiency in **C++** and **Java**.
+I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026) specializing in scalable full-stack web architectures, asynchronous backend microservices, and applied AI integrations. I build production-ready software within the **Next.js** and **MERN** ecosystems, backed by rigorous algorithmic problem-solving in **C++** and **Java**.
 
-| **Attribute** | **Highlight** |
-| :--- | :--- |
-| 🎓 **Education** | B.Tech in Computer Science & Engineering @ IIIT Bhopal (Class of 2026) |
-| 💻 **Core Competencies** | Scalable Backend Architecture, RESTful APIs, Database Indexing, AI/LLM Integration |
-| 🏆 **Algorithmic Rigor** | **600+ DSA challenges solved** across LeetCode, GeeksforGeeks, and CodeChef |
-| 🚀 **Competitive Edge** | Ranked in the **Top 2,000 globally** in AtomQuest out of 14,000+ participating engineers |
-| 🤝 **Availability** | Open for immediate joining for SDE, Backend, and Full-Stack Engineering roles |
+* **Education:** B.Tech in Computer Science & Engineering @ IIIT Bhopal (Class of 2026)
+* **Core Competencies:** Distributed Backend Architecture, RESTful API Design, Database Indexing, LLM & Agentic Pipelines
+* **Problem Solving Rigor:** **600+ algorithmic challenges solved** across LeetCode, GeeksforGeeks, and CodeChef
+* **Competitive Achievement:** Ranked in the **Top 2,000 globally** in AtomQuest out of 14,000+ participating engineers
 
 ---
 
-## 🚀 Featured Production Systems & AI Platforms
+## Featured Systems & AI Platforms
 
 ### 1. [Agentwire](https://github.com/Shreyansh3108/Agentwire) | **Autonomous Agent & Workflow Infrastructure**
 * **Core Engineering:** Developed a scalable full-stack web application structured for low-latency asynchronous task processing and automated workflow execution.
-* **System Architecture:** Designed modular service integrations, clean API routing, and state management to support complex, multi-step automated user interactions.
+* **System Architecture:** Designed modular service integrations, clean API routing, and robust state management to support complex, multi-step automated user interactions.
 <details>
-<summary><b>⚙️ View Technical Implementation Details</b></summary>
+<summary><b>⚙️ Architecture & Tech Specs</b></summary>
 <br/>
 <ul>
-  <li><b>State & Routing:</b> Architected clean separation between client-side state and backend task execution.</li>
-  <li><b>Scalability:</b> Optimized data pipelines to handle concurrent requests with minimal server overhead.</li>
+  <li><b>State & Routing:</b> Architected clean separation between client-side state and backend task execution pipelines.</li>
+  <li><b>Scalability:</b> Optimized data serialization and routing to handle concurrent requests with minimal server overhead.</li>
 </ul>
 </details>
 
@@ -53,7 +50,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 * **System Design:** Architected a high-availability, decoupled client-server deployment utilizing **Render** for reliable backend API execution and **Vercel** for low-latency frontend delivery.
 * **Implementation:** Developed robust data-routing pipelines and responsive interfaces to execute real-time automated scoring and deliver actionable analytical reporting.
 <details>
-<summary><b>⚙️ View Technical Implementation Details</b></summary>
+<summary><b>⚙️ Architecture & Tech Specs</b></summary>
 <br/>
 <ul>
   <li><b>Decoupled Deployment:</b> Engineered independent scaling for frontend user interfaces and compute-heavy backend processing engines.</li>
@@ -63,25 +60,39 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 3. [CogniFi](https://github.com/Shreyansh3108/Cognifi) | **AI-Driven Workflow & Intelligence Engine**
+### 3. [GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) | **Automated Code Review & Security SaaS**
+* **The Impact:** Reduced manual code review effort by **80%** by automating repository security audits and delivering AI-generated architectural insights in under **20 seconds**.
+* **System Architecture:** Engineered a scalable full-stack backend utilizing **Next.js 16**, **MongoDB**, and **Prisma ORM**. Integrated **Gemini AI** for automated codebase analysis, **Clerk** for secure authentication, and **Stripe** webhooks for credit-based monetization.
+<details>
+<summary><b>⚙️ Architecture & Tech Specs</b></summary>
+<br/>
+<ul>
+  <li><b>AI Pipeline:</b> Configured asynchronous prompt engineering pipelines to analyze abstract syntax trees and flag security vulnerabilities.</li>
+  <li><b>Monetization Engine:</b> Integrated secure Stripe webhook event listeners to handle automated user credit deduction and billing cycles.</li>
+</ul>
+</details>
+
+---
+
+### 4. [CogniFi](https://github.com/Shreyansh3108/Cognifi) | **AI-Driven Workflow & Intelligence Engine**
 * **Core Engineering:** Developed an intelligent web platform structured for automated data processing, predictive evaluation, and secure user session management.
 * **System Architecture:** Built with modern full-stack technologies to ensure seamless client-server communication, reliable asynchronous task handling, and a modular component hierarchy.
 <details>
-<summary><b>⚙️ View Technical Implementation Details</b></summary>
+<summary><b>⚙️ Architecture & Tech Specs</b></summary>
 <br/>
 <ul>
-  <li><b>Security & Auth:</b> Implemented strict authentication protocols to safeguard user data and session integrity.</li>
+  <li><b>Security & Auth:</b> Implemented strict authentication protocols and data validation boundaries to safeguard session integrity.</li>
   <li><b>Performance:</b> Optimized frontend component rendering to maintain responsive UI interactions during intensive processing tasks.</li>
 </ul>
 </details>
 
 ---
 
-### 4. [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) | **Full-Stack Connectivity & Synchronization Hub**
+### 5. [Nexuslink](https://github.com/Shreyansh3108/Nexuslink) | **Full-Stack Connectivity & Synchronization Hub**
 * **System Architecture:** Built a responsive, highly available web application focused on seamless data synchronization and robust external API integrations.
 * **Performance:** Prioritized scalable database interactions, clean separation of concerns, and an intuitive, accessible frontend architecture.
 <details>
-<summary><b>⚙️ View Technical Implementation Details</b></summary>
+<summary><b>⚙️ Architecture & Tech Specs</b></summary>
 <br/>
 <ul>
   <li><b>Data Synchronization:</b> Designed efficient data-fetching and caching strategies to minimize redundant network requests.</li>
@@ -91,29 +102,15 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 5. [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **High-Performance MERN Stack Application**
+### 6. [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) | **High-Performance MERN Stack Application**
 * **Database Optimization:** Boosted MongoDB read/write performance by **30%** by implementing strategic Mongoose schema indexing and advanced `.distinct()` aggregations.
 * **Reliability:** Engineered a decoupled cloud deployment implementing custom **Axios interceptors** to eliminate serverless "cold start" latency and guarantee seamless session persistence.
 <details>
-<summary><b>⚙️ View Technical Implementation Details</b></summary>
+<summary><b>⚙️ Architecture & Tech Specs</b></summary>
 <br/>
 <ul>
   <li><b>Database Engine:</b> Utilized compound indexing and optimized aggregation pipelines to drastically reduce query execution time.</li>
   <li><b>Network Layer:</b> Configured automated token renewal and request retry logic via Axios interceptors.</li>
-</ul>
-</details>
-
----
-
-### 6. [GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) | **Automated Code Review & Security SaaS**
-* **The Impact:** Reduced manual code review effort by **80%** by automating repository security audits and delivering AI-generated architectural insights in under **20 seconds**.
-* **System Architecture:** Engineered a scalable full-stack backend utilizing **Next.js 16**, **MongoDB**, and **Prisma ORM**. Integrated **Gemini AI** for automated codebase analysis, **Clerk** for secure authentication, and **Stripe** webhooks for credit-based monetization.
-<details>
-<summary><b>⚙️ View Technical Implementation Details</b></summary>
-<br/>
-<ul>
-  <li><b>AI Pipeline:</b> Configured asynchronous prompt engineering pipelines to analyze abstract syntax trees and flag security vulnerabilities.</li>
-  <li><b>Monetization Engine:</b> Integrated secure Stripe webhook event listeners to handle automated user credit deduction and billing cycles.</li>
 </ul>
 </details>
 
@@ -130,7 +127,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | **Domain** | **Technologies & Tools** |
 | :--- | :--- |
@@ -142,7 +139,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-## 📊 Algorithmic Rigor & Consistency
+## Algorithmic Rigor & Consistency
 
 <div align="center">
   <a href="https://leetcode.com/u/Shreyansh_08/">
@@ -152,9 +149,9 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### Let's Connect & Collaborate
 
-Actively interviewing for **Full-Time Software Development Engineer (SDE), Backend, and Full-Stack roles**. Feel free to reach out via email or LinkedIn to discuss engineering architectures, open roles, or collaborative projects!
+Actively interested in **Software Development Engineer (SDE), Backend, and Full-Stack roles**. Feel free to reach out to discuss scalable system design, engineering architectures, or collaborative builds.
 
 | Platform | Direct Link |
 | :--- | :--- |
@@ -167,8 +164,3 @@ Actively interviewing for **Full-Time Software Development Engineer (SDE), Backe
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreyansh3108&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
 </p>
-
-
-
-
-
