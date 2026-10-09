@@ -30,7 +30,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 | **Focus Area** | **Technical Specification & Metric** |
 | :--- | :--- |
 | 🎓 **Academic Background** | B.Tech in Computer Science & Engineering @ **IIIT Bhopal** (Class of 2026) |
-|  **Algorithmic Rigor** | **600+ DSA challenges solved** across LeetCode, GeeksforGeeks, and CodeChef |
+| 🧠**Algorithmic Rigor** | **600+ DSA challenges solved** across LeetCode, GeeksforGeeks, and CodeChef |
 | 🏆 **Global Competence** | Ranked in the **Top 2,000 globally** in AtomQuest out of **14,000+** participating engineers |
 | ⚙️ **Engineering Core** | Edge Caching, Asynchronous Queue Brokering, Parallel LLM Orchestration, RESTful APIs |
 | 💼 **Role Target** | Seeking full-time **Software Development Engineer (SDE)**, Backend, and Full-Stack roles |
