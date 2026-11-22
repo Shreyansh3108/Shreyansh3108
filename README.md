@@ -30,16 +30,33 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 | **Focus Area** | **Technical Specification & Metric** |
 | :--- | :--- |
 | 🎓 **Academic Background** | B.Tech in Computer Science & Engineering @ **IIIT Bhopal** (Class of 2026) |
-| 🧠**Algorithmic Rigor** | **600+ DSA challenges solved** across LeetCode, GeeksforGeeks, and CodeChef |
+| 🧠 **Algorithmic Rigor** | **600+ DSA challenges solved** across LeetCode, GeeksforGeeks, and CodeChef |
 | 🏆 **Global Competence** | Ranked in the **Top 2,000 globally** in AtomQuest out of **14,000+** participating engineers |
-| ⚙️ **Engineering Core** | Edge Caching, Asynchronous Queue Brokering, Parallel LLM Orchestration, RESTful APIs |
+| ⚙️ **Engineering Core** | Multi-Tenant RAG Systems, Edge Caching, Asynchronous Queue Brokering, Parallel LLM Orchestration, RESTful APIs |
 | 💼 **Role Target** | Seeking full-time **Software Development Engineer (SDE)**, Backend, and Full-Stack roles |
 
 ---
 
 ## 🚀 Featured Systems & AI Platforms
 
-### 1. [AgentWire](https://github.com/Shreyansh3108/Agentwire) • `Event-Driven AI Orchestration & Edge Ingestion`
+### 1. [Resolvr](https://github.com/Shreyansh3108/Resolvr) • `Multi-Tenant B2B AI Support SaaS & Embeddable Widget` • [Live Demo ↗](https://resolvr-zeta.vercel.app/)
+> Built a multi-tenant B2B customer support SaaS platform and embeddable chat widget powered by **Next.js**, **TypeScript**, **Node.js**, and **Express**. Engineered a RAG-driven support pipeline combining **Qdrant** vector search, **Cohere** embeddings, and the **Google Gemini API**, complete with a real-time triage sandbox and human escalation workflows persisted in **PostgreSQL (Prisma ORM)**.
+
+<details>
+<summary><code><b>🔍 VIEW ARCHITECTURE & TECHNICAL SPECIFICATIONS</b></code></summary>
+<br/>
+<blockquote>
+  <ul>
+    <li><b>Multi-Tenant RAG Pipeline:</b> Indexed tenant knowledge bases with Cohere embeddings in Qdrant to deliver isolated semantic retrieval and context-grounded Gemini API responses.</li>
+    <li><b>Real-Time Triage & Human Escalation:</b> Built an interactive triage sandbox for testing resolution flows alongside automated escalation handoffs from AI support to human agents.</li>
+    <li><b>Embeddable Widget & Decoupled Deployment:</b> Engineered a drop-in client chat widget communicating with an Express and Prisma backend deployed on <b>Render</b> and a Next.js SaaS dashboard hosted on <b>Vercel</b>.</li>
+  </ul>
+</blockquote>
+</details>
+
+---
+
+### 2. [AgentWire](https://github.com/Shreyansh3108/Agentwire) • `Event-Driven AI Orchestration & Edge Ingestion`
 > Architected an event-driven developer platform featuring **`<30ms` edge webhook ingestion** via Vercel Edge and **Upstash QStash** message brokering to eliminate 10–15s serverless LLM timeouts. Engineered an autonomous syntax self-healing pipeline using **Google Gemini** and TypeScript-native **Zod** rules to intercept malformed JSON payloads, correcting schema errors before execution in **PostgreSQL (Prisma ORM)**.
 
 <details>
@@ -56,7 +73,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 2. [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) • `Answer Engine Optimization (AEO) Diagnostic Platform`
+### 3. [RankCheck AI](https://github.com/Shreyansh3108/RankCheck-AI) • `Answer Engine Optimization (AEO) Diagnostic Platform`
 > Engineered an Answer Engine Optimization (AEO) diagnostic platform that benchmarks brand visibility across generative AI assistants. Designed a parallel LLM orchestration pipeline (`Promise.allSettled`) querying **Meta Llama 3.3 (70B) via Groq Cloud** and **Gemini 2.5 Flash** for low-latency data aggregation, feeding into **Gemini 1.5 Pro** for deep strategic synthesis with fault-tolerant fallback isolation.
 
 <details>
@@ -73,7 +90,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 3. [GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) • `Automated Code Review & Security SaaS`
+### 4. [GitAudit AI](https://github.com/Shreyansh3108/GitAudit-AI) • `Automated Code Review & Security SaaS`
 > Developed an automated repository architecture and security scanning platform validated across **50+ production codebases**, reducing manual engineering review effort by **~80%** with complete report generation in **`<20s`**. Built a **Next.js 16** and **MongoDB** backend integrating Gemini AI for AST dependency analysis, credit-gated via asynchronous **Stripe billing webhooks** and **Clerk RBAC**.
 
 <details>
@@ -90,7 +107,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 4. [CogniFi](https://github.com/Shreyansh3108/Cognifi) • `AI-Driven Workflow & Intelligence Engine`
+### 5. [CogniFi](https://github.com/Shreyansh3108/Cognifi) • `AI-Driven Workflow & Intelligence Engine`
 > Architected an intelligent full-stack workflow and data-reasoning platform structured for automated intelligence processing and predictive evaluation. Designed asynchronous background worker pipelines to execute compute-heavy data transformations without blocking client threads, implementing strict boundary validation and role-based session isolation for enterprise-grade security.
 
 <details>
@@ -107,7 +124,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 5. [NexusLink](https://github.com/Shreyansh3108/Nexuslink) • `Edge-Cached URL Shortener & Analytics Hub`
+### 6. [NexusLink](https://github.com/Shreyansh3108/Nexuslink) • `Edge-Cached URL Shortener & Analytics Hub`
 > Built a high-performance URL shortener engineered for sub-millisecond redirects and minimal latency (**Sub-15ms P99**). Implemented a distributed caching layer using **Upstash Redis** backed by **Supabase (PostgreSQL)**, paired with an **Express.js API** protected by custom header authentication (`x-api-key`) and real-time **Recharts** traffic polling.
 
 <details>
@@ -124,7 +141,7 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 6. [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) • `High-Performance MERN Stack Application`
+### 7. [Quiz Pulse](https://github.com/Shreyansh3108/Quiz-Pulse) • `High-Performance MERN Stack Application`
 > Engineered a decoupled cloud deployment implementing custom **Axios interceptors** to eliminate serverless "cold start" latency and guarantee seamless session persistence. Boosted MongoDB read/write performance by **30%** by implementing strategic Mongoose schema indexing and advanced `.distinct()` aggregations.
 
 <details>
@@ -141,12 +158,12 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 
 ---
 
-### 7. [Cipher Shield](https://github.com/Harshit0502/Cipher_shield_V3) • `Cryptographic Security & Threat Intelligence`
+### 8. [Cipher Shield](https://github.com/Harshit0502/Cipher_shield_V3) • `Cryptographic Security & Threat Intelligence`
 > Designed an end-to-end secure messaging system utilizing **AES and ECC encryption** protocols to mitigate data interception and ransomware risks. Integrated a machine learning threat-detection model trained on **5,000+ labeled payloads** to identify and intercept malicious communication patterns in real time.
 
 ---
 
-### 8. [WealthSync](https://github.com/Shreyansh3108/WealthSync) • `Serverless Financial Management Dashboard`
+### 9. [WealthSync](https://github.com/Shreyansh3108/WealthSync) • `Serverless Financial Management Dashboard`
 > Developed a responsive financial tracking dashboard utilizing **Next.js 15**, **TypeScript**, and serverless API routes for real-time data hydration, user transaction categorization, and seamless portfolio synchronization.
 
 ---
@@ -158,8 +175,8 @@ I am a Computer Science Engineering graduate from **IIIT Bhopal** (Class of 2026
 | **Programming Languages** | `C++` • `Java` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `SQL` |
 | **Frontend Ecosystem** | `Next.js (15/16)` • `React (Vite)` • `Tailwind CSS` • `ShadCN UI` • `Recharts` • `Redux Toolkit` • `Zustand` |
 | **Backend & Cloud Architecture** | `Node.js` • `Express.js` • `RESTful APIs` • `Upstash QStash` • `Serverless / Edge` • `Vercel` • `Render` • `AWS` |
-| **Databases & Edge Caching** | `PostgreSQL` • `MongoDB` • `Upstash Redis` • `Supabase` • `Prisma ORM` • `Mongoose` |
-| **DevOps, AI & Security** | `Git` • `GitHub` • `Docker` • `Groq Cloud SDK` • `Google Gemini API` • `Zod` • `Stripe API` • `Clerk Auth` |
+| **Databases, Vector & Caching** | `PostgreSQL` • `MongoDB` • `Qdrant` • `Upstash Redis` • `Supabase` • `Prisma ORM` • `Mongoose` |
+| **DevOps, AI & Security** | `Git` • `GitHub` • `Docker` • `Google Gemini API` • `Cohere` • `Groq Cloud SDK` • `Zod` • `Stripe API` • `Clerk Auth` |
 
 ---
 
